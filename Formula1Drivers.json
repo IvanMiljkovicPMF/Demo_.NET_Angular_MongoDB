@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63fb9eeecb4c0532a321c9de"
+  },
+  "Name": "Max Verstappen",
+  "Nationality": "Netherlands",
+  "Championships": 2,
+  "Number": 33,
+  "YearOfBirth": 1997,
+  "Team": "Red Bull Racing"
+},{
+  "_id": {
+    "$oid": "63fb9f7bcb4c0532a321c9e0"
+  },
+  "Name": "Sergio Perez",
+  "Nationality": "Mexico",
+  "Championships": 0,
+  "Number": 12,
+  "YearOfBirth": 1990,
+  "Team": "Red Bull Racing"
+},{
+  "_id": {
+    "$oid": "63fb9fa5cb4c0532a321c9e1"
+  },
+  "Name": "Charles Leclerc",
+  "Nationality": "Monaco",
+  "Championships": 0,
+  "Number": 16,
+  "YearOfBirth": 1997,
+  "Team": "Ferrari"
+},{
+  "_id": {
+    "$oid": "63fba039cb4c0532a321c9e3"
+  },
+  "Name": "Carlos Sainz",
+  "Nationality": "Spain",
+  "Championships": 0,
+  "Number": 55,
+  "YearOfBirth": 1994,
+  "Team": "Ferrari"
+},{
+  "_id": {
+    "$oid": "63fba056cb4c0532a321c9e4"
+  },
+  "Name": "George Russell",
+  "Nationality": "United Kingdom",
+  "Championships": 0,
+  "Number": 63,
+  "YearOfBirth": 1998,
+  "Team": "Mercedes"
+},{
+  "_id": {
+    "$oid": "63fba090cb4c0532a321c9e5"
+  },
+  "Name": "Lewis Hamilton",
+  "Nationality": "United Kingdom",
+  "Championships": 7,
+  "Number": 44,
+  "YearOfBirth": 1985,
+  "Team": "Mercedes"
+},{
+  "_id": {
+    "$oid": "63fba0b7cb4c0532a321c9e6"
+  },
+  "Name": "Esteban Ocon",
+  "Nationality": "France",
+  "Championships": 7,
+  "Number": 31,
+  "YearOfBirth": 1996,
+  "Team": "Renault"
+},{
+  "_id": {
+    "$oid": "63fba0d8cb4c0532a321c9e7"
+  },
+  "Name": "Pierre Gasly",
+  "Nationality": "France",
+  "Championships": 7,
+  "Number": 10,
+  "YearOfBirth": 1996,
+  "Team": "Alpine"
+}]
